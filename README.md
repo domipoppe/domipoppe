@@ -1,4 +1,6 @@
 # 💫 About Me:
+I am a self-confessed technology fanatic, programmer and freelancer. It is my destiny to turn ideas into visible results. I love challenges and web development, let the coding begin! 
+
 🔭 I’m currently working on... WIP<br>🤝 I’m looking for help with... WIP<br>🌱 I’m currently learning... WIP<br>💬 Ask me about... anything?
 
 
